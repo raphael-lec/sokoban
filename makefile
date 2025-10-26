@@ -2,7 +2,7 @@
 
 NAME = sokoban
 
-SRCS = test.c \
+SRCS = main.c \
 	affichage.c \
 	generation.c 
 
